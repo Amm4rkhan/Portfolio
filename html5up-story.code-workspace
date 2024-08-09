@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "html5up-story",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "html5up-story"
+	}
+}
